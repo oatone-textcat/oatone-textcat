@@ -10,6 +10,7 @@
 
 ### 배포 완료, 최근 배포순
 
+- [결전 전의 히토리(決戦前のヒトリ)](https://github.com/oatone-textcat/kessenmae-hitori-korean)
 - [Gamble With Your Friends](https://github.com/oatone-textcat/gamble-with-friends-korean)
 - [길드 탐구단에 어서 오세요!(ギルド探求団へようこそ！)](https://github.com/oatone-textcat/rpg-detective-korean)
 - [펜타루프(PENTALOOP -ペンタループ-)](https://fanbinit.us/yeokka/1865838)
@@ -19,5 +20,3 @@
 ### 배포 준비 중
 
 - [Shroom and Gloom Demo](https://github.com/oatone-textcat/shroom-and-gloom-demo-korean)
-- [결전 전의 히토리(決戦前のヒトリ)](https://github.com/oatone-textcat/kessenmae-hitori-korean)
-
