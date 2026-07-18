@@ -10,6 +10,7 @@
 
 ### 배포 완료, 최근 배포순
 
+- [Wabisabi SushiDerby](https://github.com/oatone-textcat/wabisabi-sushi-derby-korean)
 - [결전 전의 히토리(決戦前のヒトリ)](https://github.com/oatone-textcat/kessenmae-hitori-korean)
 - [Gamble With Your Friends](https://github.com/oatone-textcat/gamble-with-friends-korean)
 - [길드 탐구단에 어서 오세요!(ギルド探求団へようこそ！)](https://github.com/oatone-textcat/rpg-detective-korean)
