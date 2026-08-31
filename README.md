@@ -10,6 +10,7 @@
 
 ### 배포 완료, 최근 배포순
 
+- [Unfair Flips](https://github.com/oatone-textcat/unfair-flips-korean)
 - [Wabisabi SushiDerby](https://github.com/oatone-textcat/wabisabi-sushi-derby-korean)
 - [결전 전의 히토리(決戦前のヒトリ)](https://github.com/oatone-textcat/kessenmae-hitori-korean)
 - [Gamble With Your Friends](https://github.com/oatone-textcat/gamble-with-friends-korean)
