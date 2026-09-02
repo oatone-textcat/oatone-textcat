@@ -13,7 +13,7 @@
 - [Unfair Flips](https://github.com/oatone-textcat/unfair-flips-korean)
 - [Wabisabi SushiDerby](https://github.com/oatone-textcat/wabisabi-sushi-derby-korean)
 - [결전 전의 히토리(決戦前のヒトリ)](https://github.com/oatone-textcat/kessenmae-hitori-korean)
-- [Gamble With Your Friends](https://github.com/oatone-textcat/gamble-with-friends-korean)
+- ~~[Gamble With Your Friends](https://github.com/oatone-textcat/gamble-with-friends-korean)~~ : 공식 한국어가 추가되었습니다.
 - [길드 탐구단에 어서 오세요!(ギルド探求団へようこそ！)](https://github.com/oatone-textcat/rpg-detective-korean)
 - [펜타루프(PENTALOOP -ペンタループ-)](https://fanbinit.us/yeokka/1865838)
 - [데빌 커넥션(でびるコネクショん)](https://github.com/oatone-textcat/devil-connection-korean)
